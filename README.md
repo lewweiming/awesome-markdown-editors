@@ -8,6 +8,12 @@ See https://github.com/jefago/tiny-markdown-editor/
 ### EasyMDE
 See https://github.com/Ionaru/easy-markdown-editor
 
+### SimpleMDE
+
+> Dated
+
+See https://github.com/sparksuite/simplemde-markdown-editor
+
 ## Vue 3
 
 > Based on CodeMirror
