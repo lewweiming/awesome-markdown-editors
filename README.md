@@ -14,6 +14,12 @@ See https://github.com/Ionaru/easy-markdown-editor
 
 See https://github.com/sparksuite/simplemde-markdown-editor
 
+### Lepture Editor
+
+> Dated: One of the first markdown editors for JS based on CodeMirror
+
+See https://github.com/lepture/editor
+
 ## Vue 3
 
 > Based on CodeMirror
