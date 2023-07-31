@@ -18,6 +18,8 @@ See https://github.com/sparksuite/simplemde-markdown-editor
 
 > Dated: One of the first markdown editors for JS based on CodeMirror
 
+- Based on CodeMirror
+
 See https://github.com/lepture/editor
 
 ## Vue 3
